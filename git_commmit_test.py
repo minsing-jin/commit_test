@@ -5,3 +5,6 @@ for i in range(10):
 
 
 print("원격저장소에서 변경할줄은 전혀몰랐쥬? 로컬로 pull해보세유")
+
+
+print("merge를 연습해봅시다")
